@@ -1,0 +1,21 @@
+.body{
+    background-color: pink;
+}
+
+.navbarcustom{
+    background-color: pink;
+    border-bottom: 2px solid violet;
+    height: 100px;
+}
+.imgheader{
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/662/768/1022/lipstick-shadows-brush-pink-background-wallpaper-preview.jpg);
+    height: 50vh;
+    background-position: center;
+    background-size: cover;
+}
+.footercustom{
+    background-image: url(https://st3.depositphotos.com/9012638/36998/i/450/depositphotos_369988828-stock-photo-makeup-products-cosmetic-bag-spring.jpg);
+    height: 50vh;
+    background-position: center;
+    background-size: cover;
+}
